@@ -26,7 +26,7 @@ Python 3.12 • NumPy • SciPy • Matplotlib • Jupyter • PyTorch • Anima
 
 ### 📫 Connect with Me
 - 🔗 [GitHub](https://github.com/jeanmuller)  
-- 📧 jean.lauro.muller@ift.br  
+- 📧 jeanlauromuller@gmail.com
 - 📄 See my full CV and publication list on my personal website
 
 ---
