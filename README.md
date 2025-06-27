@@ -27,11 +27,11 @@ Python 3.12 • NumPy • SciPy • Matplotlib • Jupyter • PyTorch • Anima
 ### 📫 Connect with Me
 - 🔗 [GitHub](https://github.com/jeanmuller)  
 - 📧 jeanlauromuller@gmail.com
-- 📄 See my full CV and publication list on my personal website
+- 📄 See my full CV and publication list on Fourier Digital.
 
 ---
 
-*Driven by curiosity and rigorous modeling, I build simulations that bridge theory and visualization, making complex physical phenomena accessible and reproducible.*
+*Driven by curiosity and rigorous modeling,  I build simulations that bridge theory and visualization, making complex physical phenomena accessible and reproducible.*
 
 <!--
 **Straussberg/Straussberg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
