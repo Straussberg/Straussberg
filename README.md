@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Jean Lauro Müller
 
-**Research Scientist & Developer** with 37+ years of experience at the intersection of computer science and physics. Based at the Fourier Digital Institute  (FDI), I specialize in:
+**Research Scientist & Developer** with 20+ years of experience at the intersection of computer science and physics. Based at the Fourier Digital Institute  (FDI), I specialize in:
 
 - **Computational Physics & Simulation**  
   - Advanced particle dynamics in magnetic and nano-atomic fields  
